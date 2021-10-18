@@ -1,5 +1,5 @@
 # kalendaricpp
-Aplikace umožňuje vložit záznam na vybrané datum (a čas), doplnit titulek a text, nastavit
+- Aplikace umožňuje vložit záznam na vybrané datum (a čas), doplnit titulek a text, nastavit
 připomenutí X dní předem.
 - Data kalendáře jsou ukládána do textového (binárního) souboru.
 - Aplikace umožňuje zobrazit aktivity na dnešní den, libovolný (zvolený) den.
