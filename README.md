@@ -12,3 +12,6 @@ vlastní úpravy/změny:
 - Záznamy lze upravovat, odstranit.
 - Lze zobrazit celý kalendář.
 - Upozornění, které se zobrazí na začátku lze odložit na další den (zítra).
+
+![uml diagram](https://i.imgur.com/vjGrgGy.png)
+
