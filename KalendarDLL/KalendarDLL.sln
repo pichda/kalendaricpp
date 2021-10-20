@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KalendarDLL", "KalendarDLL\KalendarDLL.vcxproj", "{FAFB9CC0-73C1-455F-A937-630FEA5F3EDC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KalendarCLI", "KalendarCLI\KalendarCLI.vcxproj", "{7C30615A-089C-4659-9CB9-7D1B5F777CEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAFB9CC0-73C1-455F-A937-630FEA5F3EDC}.Debug|x64.ActiveCfg = Debug|x64
+		{FAFB9CC0-73C1-455F-A937-630FEA5F3EDC}.Debug|x64.Build.0 = Debug|x64
+		{FAFB9CC0-73C1-455F-A937-630FEA5F3EDC}.Debug|x86.ActiveCfg = Debug|Win32
+		{FAFB9CC0-73C1-455F-A937-630FEA5F3EDC}.Debug|x86.Build.0 = Debug|Win32
+		{FAFB9CC0-73C1-455F-A937-630FEA5F3EDC}.Release|x64.ActiveCfg = Release|x64
+		{FAFB9CC0-73C1-455F-A937-630FEA5F3EDC}.Release|x64.Build.0 = Release|x64
+		{FAFB9CC0-73C1-455F-A937-630FEA5F3EDC}.Release|x86.ActiveCfg = Release|Win32
+		{FAFB9CC0-73C1-455F-A937-630FEA5F3EDC}.Release|x86.Build.0 = Release|Win32
+		{7C30615A-089C-4659-9CB9-7D1B5F777CEE}.Debug|x64.ActiveCfg = Debug|x64
+		{7C30615A-089C-4659-9CB9-7D1B5F777CEE}.Debug|x64.Build.0 = Debug|x64
+		{7C30615A-089C-4659-9CB9-7D1B5F777CEE}.Debug|x86.ActiveCfg = Debug|Win32
+		{7C30615A-089C-4659-9CB9-7D1B5F777CEE}.Debug|x86.Build.0 = Debug|Win32
+		{7C30615A-089C-4659-9CB9-7D1B5F777CEE}.Release|x64.ActiveCfg = Release|x64
+		{7C30615A-089C-4659-9CB9-7D1B5F777CEE}.Release|x64.Build.0 = Release|x64
+		{7C30615A-089C-4659-9CB9-7D1B5F777CEE}.Release|x86.ActiveCfg = Release|Win32
+		{7C30615A-089C-4659-9CB9-7D1B5F777CEE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43F8AFDE-2365-4625-8C0B-7479C61196BB}
+	EndGlobalSection
+EndGlobal
