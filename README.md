@@ -13,5 +13,5 @@ vlastní úpravy/změny:
 - Lze zobrazit celý kalendář.
 - Upozornění, které se zobrazí na začátku lze odložit na další den (zítra).
 
-![uml diagram](https://i.imgur.com/yi3njbJ.png)
+![uml diagram](https://i.imgur.com/USNVrvi.png)
 
